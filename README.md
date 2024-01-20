@@ -18,7 +18,7 @@ how to use:
 
 example:
    
-   example input:
+   input:
    enter relative velocity on earth (in m/s): 50000
    enter relative velocity of the spaceship (in m/s): 250000
    enter elapsed time on earth (in years): 10
